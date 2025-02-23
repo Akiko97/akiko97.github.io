@@ -135,7 +135,9 @@
             "Rust",
             "C/C++",
             "Python",
+            "Java",
             "JavaScript/TypeScript",
+            "Swift",
             "Go",
             "Lua",
             "OCaml"
@@ -181,7 +183,7 @@
           "items": [
             "リバースエンジニアリング: IDA Pro, Ghidra",
             "ゲームエンジン: Unity, Godot, Unreal Engine",
-            "IDEs: VSCode, IntelliJ",
+            "IDEs: VSCode, IntelliJ, Xcode",
             "デジタルオーディオワークステーション: Adobe Audition, Logic Pro",
             "動画編集: Adobe Premiere Pro, Final Cut Pro",
             "ラスタグラフィック編集: Adobe Photoshop",

@@ -135,7 +135,9 @@
             "Rust",
             "C/C++",
             "Python",
+            "Java",
             "JavaScript/TypeScript",
+            "Swift",
             "Go",
             "Lua",
             "OCaml"
@@ -181,7 +183,7 @@
           "items": [
             "Reverse Engineering: IDA Pro, Ghidra",
             "Game Engines: Unity, Godot, Unreal Engine",
-            "IDEs: VSCode, IntelliJ",
+            "IDEs: VSCode, IntelliJ, Xcode",
             "DAW(NLAE): Adobe Audition, Logic Pro",
             "NLVE: Adobe Premiere Pro, Final Cut Pro",
             "Raster Graphics Editor: Adobe Photoshop",

@@ -135,7 +135,9 @@
             "Rust",
             "C/C++",
             "Python",
+            "Java",
             "JavaScript/TypeScript",
+            "Swift",
             "Go",
             "Lua",
             "OCaml"
@@ -145,7 +147,7 @@
           "title": "Web 开发",
           "items": [
             "HTML5, CSS3, TailwindCSS",
-            "前端框架: Vue, Svelte",
+            "前端框架: Vue.js, Svelte",
             "工具链: Node.js, Bun, Deno",
             "RESTful APIs, WebSocket protocols, gRPC(Protobuf)"
           ]
@@ -181,7 +183,7 @@
           "items": [
             "逆向工程: IDA Pro, Ghidra",
             "游戏引擎: Unity, Godot, Unreal Engine",
-            "集成开发环境: VSCode, IntelliJ",
+            "集成开发环境: VSCode, IntelliJ, Xcode",
             "数字音频工作站: Adobe Audition, Logic Pro",
             "视频编辑: Adobe Premiere Pro, Final Cut Pro",
             "图片编辑: Adobe Photoshop",
