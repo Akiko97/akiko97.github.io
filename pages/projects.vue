@@ -22,8 +22,8 @@
         <div v-for="(item, index) in tm('projects.personal.items')" :key="index" class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow">
           <h3 class="text-xl font-semibold mb-2 dark:text-gray-100">{{ rt(item.title) }}</h3>
           <p class="text-gray-700 dark:text-gray-300 mb-4">{{ rt(item.description) }}</p>
-          <div v-if="item.link" class="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200">
-            <a :href="item.link" target="_blank" rel="noopener">{{ t('projects.viewMore') }}</a>
+          <div v-if="rt(item.link)" class="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200">
+            <a :href="rt(item.link)" target="_blank" rel="noopener">{{ t('projects.viewMore') }}</a>
           </div>
         </div>
       </div>
