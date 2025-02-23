@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Hi \uD83D\uDC4B, I'm Gabriel Zhong",
+    "subtitle": "A full-stack developer driven by passion",
+    "quote": "In the beginning, there was darkness.\nUntil someone set themselves aflame.\nOnly then did the universe know light.",
+    "image": "Mount Fuji, photographed from the Shonan Kaigan (Spring 2024, iPhone 15 Pro Max)"
+  },
+  "about": {
+    "title": "About Me",
+    "basic": {
+      "title": "Basic Information",
+      "name": {
+        "title": "Name",
+        "content": "Gabriel Zhong"
+      },
+      "hometown": {
+        "title": "Hometown",
+        "content": "Beijing, China"
+      },
+      "previous_residence": {
+        "title": "Previous Residence",
+        "content": "Shinjuku City, Tokyo, Japan"
+      },
+      "current_residence": {
+        "title": "Current Residence",
+        "content": "Daxing District, Beijing, China"
+      },
+      "specialization": {
+        "title": "Specialization",
+        "content": "IT (Full-stack Developer, Information Security, High-Performance Computing)"
+      },
+      "language": {
+        "title": "Language Proficiency",
+        "content": "Chinese (Mandarin, native), English, Japanese (N1)"
+      },
+      "github": "https://github.com/Akiko97"
+    },
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "degree": {
+            "title": "Degree",
+            "content": "Master of Engineering"
+          },
+          "dates": "2021.09 - 2024.03",
+          "university": {
+            "title": "University",
+            "content": "Waseda University"
+          },
+          "faculty": {
+            "title": "Faculty",
+            "content": "Graduate School of Fundamental Science and Engineering"
+          },
+          "department": {
+            "title": "Department",
+            "content": "Dept. of Computer Science and Engineering"
+          },
+          "major": {
+            "title": "Major",
+            "content": "Computer Science and Communications Engineering"
+          },
+          "laboratory": {
+            "title": "Research Lab",
+            "content": "UEDA Laboratory"
+          },
+          "focus": {
+            "title": "Research Focus",
+            "content": "High-Performance Computing, Parallel Computing"
+          }
+        },
+        {
+          "degree": {
+            "title": "Degree",
+            "content": "Bachelor of Engineering"
+          },
+          "dates": "2016.09 - 2020.07",
+          "university": {
+            "title": "University",
+            "content": "Beijing University of Technology"
+          },
+          "faculty": {
+            "title": "Faculty",
+            "content": "College of Computer Science"
+          },
+          "department": {
+            "title": "Department",
+            "content": "Dept. of Cybersecurity"
+          },
+          "major": {
+            "title": "Major",
+            "content": "Information Security"
+          },
+          "laboratory": {
+            "title": "Research Lab",
+            "content": "Trusted Computing Beijing Key Laboratory"
+          },
+          "focus": {
+            "title": "Research Focus",
+            "content": "Linux Kernel Security, Trusted Computing"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "items": [
+        {
+          "job_title": "Researcher (Intern)",
+          "company": "KXYK Trust Cloud Technology (Beijing) Co., Ltd. Chongming Research Institute",
+          "location": "Haidian District, Beijing, China",
+          "dates": "2024.04 - Present",
+          "infos": [
+            "Assisted the State Information Center of China in completing a research project for the National Development and Reform Commission on \"Opportunities and Challenges of Artificial Intelligence Technology for China’s Cybersecurity in the 15th Five-Year Plan.\"",
+            "Designed and developed the backend (including database, middleware, and backend) for the company's Trusted Computing Digital Twin Sandbox project, leading to enhanced system reliability and performance.",
+            "Developed the backend for the company's Trusted Computing Security Visualization project, optimizing data flow and visualization efficiency, and implemented a universal protocol conversion tool from TCP to HTTP.",
+            "Designed a domestic trusted adaptation solution for a company's load balancing equipment.",
+            "Worked with technologies such as Axum to build high-performance backend services, Protobuf and gRPC to optimize data serialization and communication protocols, SurrealDB for efficient database management and high availability, and Bevy ECS to design a flexible, modular architecture for real-time data processing and system management."
+          ]
+        }
+      ]
+    },
+    "skills": {
+      "title": "Technical Skills",
+      "items": [
+        {
+          "title": "Programming Languages",
+          "items": [
+            "Rust",
+            "C/C++",
+            "Python",
+            "JavaScript/TypeScript",
+            "Go",
+            "Lua",
+            "OCaml"
+          ]
+        },
+        {
+          "title": "Web Development",
+          "items": [
+            "HTML5, CSS3, TailwindCSS",
+            "Front-end frameworks: Vue.js, Svelte",
+            "Toolchains: Node.js, Bun, Deno",
+            "RESTful APIs, WebSocket protocols, gRPC(Protobuf)"
+          ]
+        },
+        {
+          "title": "System Development",
+          "items": [
+            "Kernel Development",
+            "System Programming",
+            "Driver Development",
+            "Performance Optimization",
+            "Embedded Programming"
+          ]
+        },
+        {
+          "title": "Development Tools & Practices",
+          "items": [
+            "Linux-based development environments",
+            "macOS-based development environments",
+            "Version Control: Git"
+          ]
+        },
+        {
+          "title": "Infrastructure & Cloud Technologies",
+          "items": [
+            "Databases: MySQL, MongoDB, PostgreSQL, SurrealDB",
+            "Docker containerization",
+            "Cloud Computing: AWS, Azure"
+          ]
+        },
+        {
+          "title": "Other Skills",
+          "items": [
+            "Reverse Engineering: IDA Pro, Ghidra",
+            "Game Engines: Unity, Godot, Unreal Engine",
+            "IDEs: VSCode, IntelliJ",
+            "DAW(NLAE): Adobe Audition, Logic Pro",
+            "NLVE: Adobe Premiere Pro, Final Cut Pro",
+            "Raster Graphics Editor: Adobe Photoshop",
+            "3D: Blender"
+          ]
+        }
+      ]
+    },
+    "hobbies": {
+      "title": "Hobbies & Interests",
+      "content": "I am passionate about exploring the frontiers of technology, particularly in the fields of computer science, artificial intelligence, and reverse engineering. \nIn addition, I have a strong interest in game development and game technologies, often spending my spare time working on small game projects to explore new game mechanics and gameplay. \nMusic is also an important part of my life. I enjoy playing instruments, particularly the flute, guitar, and some traditional Chinese instruments. Music provides endless inspiration for my creativity and thinking. \nIn my free time, I also enjoy reading books, contributing to open-source projects, and traveling to explore different cultures, all of which provide new perspectives and inspiration for my work."
+    }
+  },
+  "projects": {
+    "title": "Research & Projects",
+    "viewMore": "View More",
+    "research": {
+      "title": "Research Papers/Thesis",
+      "items": [
+        {
+          "title": "Enhancing SIMD Assembly Language Development with Visualization Techniques",
+          "description": "This thesis introduces a dynamic method for visualizing SIMD assembly language instructions and presents the PixelAssemblySIMD tool, which uses a data flow-driven visualization approach to help programmers better understand the execution of SIMD instructions. The tool incorporates a CPU emulator written in Rust and supports cross-platform compatibility, including WebAssembly. The contributions of the thesis include the proposal of a universal visualization method, the development of the PixelAssemblySIMD tool, and user evaluations that demonstrate its effectiveness in teaching, debugging, and security analysis. Compared to other tools, PixelAssemblySIMD offers advantages in data accuracy and visualization intuitiveness.",
+          "language": "English",
+          "link": "https://waseda.repo.nii.ac.jp/records/2001309"
+        },
+        {
+          "title": "Design and Implementation of Transparent TCM Support Mechanism in Cloud Environment",
+          "description": "The thesis focuses on the design and implementation of a transparent trusted cryptographic module (TCM) support mechanism in cloud environments. This mechanism enables the integration of virtual trusted platform modules (vTCM) into cloud virtual machines without requiring changes to the cloud infrastructure. It monitors virtual machine startup commands, intercepts them to add trusted root support, and binds each virtual machine to a vTCM. The system allows up to 255 virtual machines to receive TCM support, offering functionalities like key creation, encryption/decryption, signing, and integrity reporting. It also ensures that the TCM setup is transparent to users and operates with minimal performance overhead. The proposed solution aims to enhance cloud security by ensuring the trustworthiness of virtual machines in a scalable and efficient manner.",
+          "language": "Chinese",
+          "link": ""
+        }
+      ]
+    },
+    "personal": {
+      "title": "Personal Projects",
+      "items": [
+        {
+          "title": "CheshireLane",
+          "description": "A Proof-of-Concept Private Server for an Anime Fleet Game",
+          "link": "https://github.com/Irminsul-dev/CheshireLane-Public"
+        },
+        {
+          "title": "brainfuck",
+          "description": "A simple brainfuck interpreter, with JIT support",
+          "link": "https://github.com/Akiko97/brainfuck"
+        },
+        {
+          "title": "BCut2SRT",
+          "description": "A command-line tool that converts BCut JSON files into SRT format",
+          "link": "https://github.com/Akiko97/bcut2srt"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "Feel free to reach out to me through any of the following channels:",
+    "email": "collies-04.venues$at$icloud.com",
+    "telegram": "akiko97",
+    "discord": "akiko97(akiko97#6666)",
+    "email_intro": "This email is powered by iCloud+"
+  }
+}

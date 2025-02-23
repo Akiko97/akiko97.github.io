@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "projects": "项目",
+    "contact": "联系"
+  },
+  "home": {
+    "welcome": "嗨 \uD83D\uDC4B，我是钟中",
+    "subtitle": "一位兴趣使然的全栈开发者",
+    "quote": "星海幽暗，孤寂无垠。 \n直到有人点燃了自我。 \n宇宙才拥有最初的光。",
+    "image": "富士山，拍摄于湘南海岸（2024春，iPhone 15 Pro Max）"
+  },
+  "about": {
+    "title": "关于我",
+    "basic": {
+      "title": "基本信息",
+      "name": {
+        "title": "姓名",
+        "content": "钟中"
+      },
+      "hometown": {
+        "title": "家乡",
+        "content": "中国 北京市"
+      },
+      "previous_residence": {
+        "title": "曾住所",
+        "content": "日本 东京都 新宿区"
+      },
+      "current_residence": {
+        "title": "现住所",
+        "content": "中国 北京市 大兴区"
+      },
+      "specialization": {
+        "title": "专业领域",
+        "content": "IT（全栈开发者、信息安全、高性能计算）"
+      },
+      "language": {
+        "title": "语言能力",
+        "content": "中文（普通话，母语），英语，日语（N1）"
+      },
+      "github": "https://github.com/Akiko97"
+    },
+    "education": {
+      "title": "教育经历",
+      "items": [
+        {
+          "degree": {
+            "title": "学位",
+            "content": "工学硕士"
+          },
+          "dates": "2021.09 - 2024.03",
+          "university": {
+            "title": "学校",
+            "content": "早稻田大学"
+          },
+          "faculty": {
+            "title": "学院",
+            "content": "基干理工学研究科"
+          },
+          "department": {
+            "title": "系",
+            "content": "信息理工系"
+          },
+          "major": {
+            "title": "专业",
+            "content": "信息理工与信息通信"
+          },
+          "laboratory": {
+            "title": "研究室",
+            "content": "上田研究室"
+          },
+          "focus": {
+            "title": "研究方向",
+            "content": "高性能计算，并行计算"
+          }
+        },
+        {
+          "degree": {
+            "title": "学位",
+            "content": "工学学士"
+          },
+          "dates": "2016.09 - 2020.07",
+          "university": {
+            "title": "学校",
+            "content": "北京工业大学"
+          },
+          "faculty": {
+            "title": "学院",
+            "content": "计算机学院"
+          },
+          "department": {
+            "title": "系",
+            "content": "网络空间安全系"
+          },
+          "major": {
+            "title": "专业",
+            "content": "信息安全"
+          },
+          "laboratory": {
+            "title": "研究室",
+            "content": "可信计算北京市重点实验室"
+          },
+          "focus": {
+            "title": "研究方向",
+            "content": "Linux内核安全，可信计算"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "工作经验",
+      "items": [
+        {
+          "job_title": "研究员（实习）",
+          "company": "可信云科（北京）技术有限公司重明研究院",
+          "location": "中国北京市海淀区",
+          "dates": "2024.04 - 至今",
+          "infos": [
+            "协助国家信息中心完成国家发展和改革委员会的研究课题：“人工智能技术对‘十五五’我国网络安全带来的机遇与挑战研究”。",
+            "设计并开发了公司可信计算数字孪生沙盘项目的后端（包括数据库、中间件和后端），提升了系统的可靠性和性能。",
+            "开发了公司可信计算安全可视化项目的后端，优化了数据流和可视化效率，并实现了一个从TCP到HTTP的通用协议转换工具。",
+            "设计了某公司负载均衡设备的国产化可信适配方案。",
+            "使用Axum构建高性能后端服务，利用Protobuf和gRPC优化数据序列化和通信协议，使用SurrealDB进行高效的数据库管理和高可用性，运用Bevy ECS设计了一个灵活的模块化架构，用于实时数据处理和系统管理。"
+          ]
+        }
+      ]
+    },
+    "skills": {
+      "title": "技术技能",
+      "items": [
+        {
+          "title": "编程语言",
+          "items": [
+            "Rust",
+            "C/C++",
+            "Python",
+            "JavaScript/TypeScript",
+            "Go",
+            "Lua",
+            "OCaml"
+          ]
+        },
+        {
+          "title": "Web 开发",
+          "items": [
+            "HTML5, CSS3, TailwindCSS",
+            "前端框架: Vue, Svelte",
+            "工具链: Node.js, Bun, Deno",
+            "RESTful APIs, WebSocket protocols, gRPC(Protobuf)"
+          ]
+        },
+        {
+          "title": "系统开发",
+          "items": [
+            "内核开发",
+            "系统编程",
+            "驱动程序开发",
+            "性能优化",
+            "嵌入式编程"
+          ]
+        },
+        {
+          "title": "开发工具与实践",
+          "items": [
+            "基于 Linux 的开发环境",
+            "基于 macOS 的开发环境",
+            "版本控制：Git"
+          ]
+        },
+        {
+          "title": "基础设施与云技术",
+          "items": [
+            "数据库: MySQL, MongoDB, PostgreSQL, SurrealDB",
+            "Docker 容器化",
+            "云计算: AWS, Azure"
+          ]
+        },
+        {
+          "title": "其他技能",
+          "items": [
+            "逆向工程: IDA Pro, Ghidra",
+            "游戏引擎: Unity, Godot, Unreal Engine",
+            "集成开发环境: VSCode, IntelliJ",
+            "数字音频工作站: Adobe Audition, Logic Pro",
+            "视频编辑: Adobe Premiere Pro, Final Cut Pro",
+            "图片编辑: Adobe Photoshop",
+            "3D 制作: Blender"
+          ]
+        }
+      ]
+    },
+    "hobbies": {
+      "title": "兴趣爱好",
+      "content": "我热衷于探索科技前沿，尤其对计算机科学、人工智能以及逆向工程领域充满兴趣。\n除此之外，我对游戏开发和游戏技术有着浓厚的兴趣，常常在空余时间开发一些小型游戏项目，探索新的游戏机制和玩法。\n音乐也是我生活中的重要部分，我喜欢弹奏乐器，尤其是长笛、吉他以及一些中国乐器，音乐为我的创作和思维提供了源源不断的灵感。\n在业余时间，我还喜欢阅读书籍、参与开源项目，以及旅行探险、拍摄照片，这让我能够从不同的文化中汲取新的思维和灵感。"
+    }
+  },
+  "projects": {
+    "title": "研究与项目",
+    "viewMore": "查看更多",
+    "research": {
+      "title": "研究论文/学位论文",
+      "items": [
+        {
+          "title": "通过可视化技术增强SIMD汇编语言开发",
+          "description": "这篇论文介绍了一种用于可视化SIMD汇编语言指令的动态方法，并提出了PixelAssemblySIMD工具，通过数据流驱动的可视化方式帮助程序员更直观地理解SIMD指令的执行过程。该工具结合了Rust编写的CPU仿真器，支持跨平台兼容性，包括WebAssembly。论文的贡献包括：提出了一种通用的可视化方法，开发了PixelAssemblySIMD工具，并通过用户评估证明了其在教学、调试和安全分析中的有效性，相比于其他工具，PixelAssemblySIMD在数据准确性和可视化直观性方面具有优势。",
+          "language": "英语",
+          "link": "https://waseda.repo.nii.ac.jp/records/2001309"
+        },
+        {
+          "title": "云环境透明可信密码模块⽀撑机制设计实现",
+          "description": "这篇论文集中于在云环境中设计和实现透明的可信密码模块（TCM）支撑机制。该机制使得虚拟可信平台模块（vTCM）能够集成到云虚拟机中，无需对云基础设施进行更改。它监控虚拟机启动命令，拦截并添加可信根支持，从而将每个虚拟机与vTCM绑定。该系统支持最多255台虚拟机接入TCM，提供密钥创建、加解密、签名和完整性报告等功能。它还确保TCM设置对用户透明，且性能开销最小。所提出的解决方案旨在通过确保虚拟机的可信性，在可扩展和高效的方式下增强云安全性。",
+          "language": "中文",
+          "link": ""
+        }
+      ]
+    },
+    "personal": {
+      "title": "个人项目",
+      "items": [
+        {
+          "title": "CheshireLane",
+          "description": "一款动漫舰队游戏的概念验证私服",
+          "link": "https://github.com/Irminsul-dev/CheshireLane-Public"
+        },
+        {
+          "title": "brainfuck",
+          "description": "一个简单的Brainfuck解释器，支持JIT",
+          "link": "https://github.com/Akiko97/brainfuck"
+        },
+        {
+          "title": "BCut2SRT",
+          "description": "一个将BCut JSON文件转换为SRT格式的命令行工具",
+          "link": "https://github.com/Akiko97/bcut2srt"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "联系我",
+    "description": "欢迎通过以下任何方式与我联系：",
+    "email": "collies-04.venues$at$icloud.com",
+    "telegram": "akiko97",
+    "discord": "akiko97(akiko97#6666)",
+    "email_intro": "此邮箱由 iCloud+ 提供支持"
+  }
+}
